@@ -1,7 +1,7 @@
 # Александр Шалухо
 
 **Python-разработчик** · Москва  
-Эксперт по налогообложению банков с 20-летним опытом в учёте и налогах и 15+ летним опытом руководства — сейчас развиваю карьеру в backend-разработке на Python.
+Эксперт по налогообложению банков с 20-летним опытом в учёте и налогах и 15+ летним опытом руководства — сейчас развиваю компетенеции в backend-разработке на Python.
 
 📧 [aleksandr@shaluho.ru](mailto:aleksandr@shaluho.ru) · 🔗 [github.com/AleksandrShaluho](https://github.com/AleksandrShaluho)
 
@@ -41,7 +41,6 @@ Django · DRF · FastAPI · Flask · SQLAlchemy · PostgreSQL · Docker · GitHu
 
 - Стек: Django, DRF, Djoser, PostgreSQL, React, Docker, Nginx, GitHub Actions  
 - Репозиторий: [AleksandrShaluho/foodgram](https://github.com/AleksandrShaluho/foodgram)  
-- Демо: [foodgram.neverhood.ru.net](https://foodgram.neverhood.ru.net) · [API docs](https://foodgram.neverhood.ru.net/api/docs/)
 
 ### BookingSeats — API бронирования мест в кафе *(командный проект)*
 
@@ -115,7 +114,7 @@ API блога: посты, комментарии, группы, подписк
 ## Опыт вне учебных проектов
 
 - **Налоговый мониторинг в банке** — руководство проектом внедрения витрины налогового мониторинга (взаимодействие бизнеса, ИТ и подрядчиков).
-- **Автоматизация на Python** — разработка и деплой скриптов и Streamlit-приложений на корпоративной платформе для рутинной обработки данных (pandas, отчёты, ежедневные пайплайны).
+- **Автоматизация на Python** — разработка и деплой скриптов и Streamlit-приложений на корпоративной платформе для рутинной обработки данных (pandas, отчёты).
 - **Управленческий опыт** — 15+ лет руководства командами и процессами в области бухгалтерского учёта и налогообложения банков.
 
 ---

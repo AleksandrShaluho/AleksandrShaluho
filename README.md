@@ -37,7 +37,7 @@ Django · DRF · FastAPI · Flask · SQLAlchemy · PostgreSQL · Docker · GitHu
 
 ### FoodGram — сервис рецептов и кулинарных блогов
 
-Полноценный backend на **Django REST Framework** + готовый React-фронтенд курса. Реализованы пользователи и подписки, рецепты, избранное, список попок, фильтры и пагинация. Деплой на сервер: **Docker**, **Nginx**, **GitHub Actions**.
+Полноценный backend на **Django REST Framework** + готовый React-фронтенд курса. Реализованы пользователи и подписки, рецепты, избранное, список покупок, фильтры и пагинация. Деплой на сервер: **Docker**, **Nginx**, **GitHub Actions**.
 
 - Стек: Django, DRF, Djoser, PostgreSQL, React, Docker, Nginx, GitHub Actions  
 - Репозиторий: [AleksandrShaluho/foodgram](https://github.com/AleksandrShaluho/foodgram)  
